@@ -40,7 +40,7 @@ git clone https://github.com/NatnaeAssefa/LeaderBoard.git
 
 ## Authors
 
-👤 **Shaquille Ndunda**
+👤 **Natnael Assefa**
 
 - GitHub: [@NatnaelAssefa](https://github.com/NatnaeAssefa)
 - X formerly (Twitter): [@NatnaelAssefa](https://x.com/Natnael_Assefa7?t=uq9rQxhSlyZlaVgA0UDs6w&s=35)
