@@ -9,7 +9,7 @@ A leaderboard list app that displays scores submitted by different players. It a
 - Leaderboard API
 
 ## Live Demo
-- Click [here](https://shaqdeff.github.io/Leaderboard/) for the live demo.
+- Click [here](https://leader-board-blue.vercel.app/) for the live demo.
 
 ## Getting Started
 
